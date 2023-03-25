@@ -1,13 +1,13 @@
 //
-//  ScurumdingerUITestsLaunchTests.swift
-//  ScurumdingerUITests
+//  ScrumdingerUITestsLaunchTests.swift
+//  ScrumdingerUITests
 //
 //  Created by Apple on 25.03.2023.
 //
 
 import XCTest
 
-final class ScurumdingerUITestsLaunchTests: XCTestCase {
+final class ScrumdingerUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
