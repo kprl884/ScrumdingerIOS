@@ -20,6 +20,7 @@
 		185261F92A463F9F00236BBD /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185261F82A463F9F00236BBD /* DetailView.swift */; };
 		185D227B29ED5BB900340FC8 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185D227A29ED5BB900340FC8 /* Theme.swift */; };
 		185D227D29ED5CB400340FC8 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185D227C29ED5CB400340FC8 /* DailyScrum.swift */; };
+		189484612A59776E004DD517 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189484602A59776E004DD517 /* DetailEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		185261F82A463F9F00236BBD /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		185D227A29ED5BB900340FC8 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		185D227C29ED5CB400340FC8 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
+		189484602A59776E004DD517 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				184FE4EF29F3D60C006DE6B8 /* ScrumView.swift */,
 				184FE4F129F42731006DE6B8 /* TrailingIconLabelStyle.swift */,
 				185261F82A463F9F00236BBD /* DetailView.swift */,
+				189484602A59776E004DD517 /* DetailEditView.swift */,
 			);
 			path = ui;
 			sourceTree = "<group>";
@@ -293,6 +296,7 @@
 			files = (
 				185D227D29ED5CB400340FC8 /* DailyScrum.swift in Sources */,
 				185261F92A463F9F00236BBD /* DetailView.swift in Sources */,
+				189484612A59776E004DD517 /* DetailEditView.swift in Sources */,
 				185D227B29ED5BB900340FC8 /* Theme.swift in Sources */,
 				1810278829CF03E700C345EC /* MeetingView.swift in Sources */,
 				184FE4F029F3D60C006DE6B8 /* ScrumView.swift in Sources */,
